@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Дмитрий Милюков](https://up.htmlacademy.ru/htmlcss/38/user/1730519).
-* Наставник: `Неизвестно`.
+* Наставник: `Виктор Рыбаков https://htmlacademy.ru/profile/viktor-rybakov`.
 
 ---
 
